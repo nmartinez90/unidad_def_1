@@ -1,6 +1,6 @@
 datos personales
-nombre:
+nombre: nico martinez
 dni
-carrera
+csarrera
 año
 instituto
