@@ -1,0 +1,6 @@
+datos personales
+nombre:
+dni
+carrera
+año
+instituto
